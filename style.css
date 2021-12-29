@@ -1,0 +1,53 @@
+*{padding: 0; margin: 0;}
+body{
+    overflow-x: hidden;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lato', sans-serif;
+}
+.img-jambo{
+    background-image: url(food/dif.jpg);
+    width: 1460;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+}
+.intro{
+    padding-top: 166px;
+}
+.card:hover{
+    box-shadow: 0px 2px 10px rgba(0,0,0,2);
+}
+/* s2 row fe */
+.d-flex{
+    justify-content: center;
+    align-items: center;
+    margin-left: 16px;
+}
+
+}
+/* product cards facilities */
+#facilities{
+    background-color:white;
+    padding-right: 26px;
+    padding-left: 16px;
+}
+.row1{
+    height: 30%;
+    width: 80%;
+   margin-left: 10%;
+
+}
+/* service1 */
+.img-jambo2{ 
+    background-image: url(/food/howcuttingdo.jpg);
+    width: 1460;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: justify;
+}
